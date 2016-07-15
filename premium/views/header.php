@@ -54,7 +54,6 @@
                                     </li>
                                     <li><a href="#">Über Uns</a></li>
                                     <li><a href="index.php?site=contact">Kontakt</a></li>
-                                    <li><a href="#">FAQ</a></li>
                                     <li><a href="index.php?site=login">Login</a></li>
                                 </ul>
 
