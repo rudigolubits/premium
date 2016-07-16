@@ -13,7 +13,7 @@
 								  </div>
 								  <div class="form-group">
 								    <label for="InputPassword1">Passwort</label>
-								    <input type="password" class="form-control" id="InputPassword1" placeholder="Password">
+								    <input type="password" class="form-control" id="InputPassword1" placeholder="Passwort">
 								  </div>
 								  <div class="checkbox">
 								    <label>
@@ -23,7 +23,7 @@
 								  <button type="submit" class="btn btn-primary btn-lg btn-style-1 center-block">Einloggen</button>
 								</form>
 								<div class="form-box-msg text-center">
-								  Kein Konto? Jetzt eines anlegen! <a href="register.html">Hier registrieren!</a>
+								  Kein Konto? Jetzt eines anlegen! <a href="index.php?site=register">Hier registrieren!</a>
 								</div>
 								</div>
 		                    </div>
