@@ -125,7 +125,7 @@ header .dropdown-menu {
   padding-top: 0;
   padding-bottom: 0;
   padding-left: 0;
-  border-bottom: 3px solid #666699;
+  border-bottom: 3px solid #8C072f;
 }
 
 .dropdown-menu {
@@ -356,12 +356,12 @@ section {
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover {
-  background-color: #666699;
+  background-color: #8C072f;
   color: #fff;
 }
 
 .navbar-default #navigation #tool-nav.navbar-nav > li > a { /* !!!!!!!/* !!!!!!!!!!!!!!!!*/
-  color: #666699;
+  color: #8C072f;
   font-size: 20px;
 }
 
@@ -371,7 +371,7 @@ section {
 
 .badge,
 .tooltip-inner {
-  background-color: #666699;
+  background-color: #8C072f;
 }
 
 .badge {
@@ -427,7 +427,7 @@ section {
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #5e5e5e;
+  color: #8C072f;
   background-color: transparent;
 }
 
@@ -443,7 +443,7 @@ section {
   width: 36px;
   font-size: 18px;
   border-radius: 0;
-  color: #666699;
+  color: #8C072f;
 }
 .navbar-toggle:hover {
   background-color: transparent !important;
@@ -504,7 +504,7 @@ section {
 }
 
 .navbar-default #navigation #tool-nav.navbar-nav > li > a {
-  color: #666699;
+  color: #8C072f;
   font-size: 20px;
 }
 
@@ -582,7 +582,7 @@ section {
   box-shadow: none;
 }
 .dropdown-header {
-  color: #666699;
+  color: #8C072f;
   font-weight: 700;
 }
 
@@ -1014,7 +1014,7 @@ textarea.form-control {
 }
 .form-box-msg a {
   font-weight: 700;
-  color: #666699;
+  color: #8C072f;
 }
 
 
@@ -1231,14 +1231,14 @@ figure.box-1 .img-appear {
   .navbar-default .navbar-nav > .active > a,
   .navbar-default .navbar-nav > .active > a:hover {
     background-color: transparent !important;
-    border-bottom: 3px solid #666699;
+    border-bottom: 3px solid #8C072f;
     padding-left: 0;
     padding-right: 0;
     color: #1a1117;
   }
   .navbar-default .navbar-nav > li > a:hover,
   .navbar-default .navbar-nav > li > a:focus {
-    color: #666699;
+    color: #8C072f;
     background-color: transparent;
   }
   .navbar-collapse {
@@ -1781,7 +1781,7 @@ header .dropdown-menu {
   padding-top: 0;
   padding-bottom: 0;
   padding-left: 0;
-  border-bottom: 3px solid #666699;
+  border-bottom: 3px solid #8C072f;
 }
 
 .dropdown-menu {
@@ -1968,7 +1968,7 @@ header .dropdown-menu li a {
   background-color: #f1f1f1;
 }
 .navbar__navbar-icons .navbar__btn.active span {
-  color: #666699;
+  color: #8C072f;
 }
 
 /* --------------------------------------
@@ -2131,7 +2131,7 @@ header .dropdown-menu li a {
     border-radius: 0;
     padding-top: 0;
     padding-bottom: 0;
-    border-bottom: 3px solid #666699;
+    border-bottom: 3px solid #8C072f;
   }
   
   header .navbar__dropdown-toggle {
@@ -2153,7 +2153,7 @@ ____________________________________
 
 .badge,
 .tooltip-inner {
-  background-color: #666699;
+  background-color: #8C072f;
 }
 
 @media (min-width: 992px) {
@@ -2190,14 +2190,14 @@ ____________________________________
   .navbar-default .navbar-nav > .active > a,
   .navbar-default .navbar-nav > .active > a:hover {
     background-color: transparent !important;
-    border-bottom: 3px solid #666699;
+    border-bottom: 3px solid #8C072f;
     padding-left: 0;
     padding-right: 0;
     color: #1a1117;
   }
   .navbar-default .navbar-nav > li > a:hover,
   .navbar-default .navbar-nav > li > a:focus {
-    color: #666699;
+    color: #8C072f;
     background-color: transparent;
   }
   .navbar-collapse {
@@ -2562,10 +2562,10 @@ footer.credits {
   color: rgba(255, 255, 255, 0.5);
 }
 footer.credits a:hover {
-  color: #666699;
+  color: #8C072f;
 }
 footer.credits a {
-  color: #666699;
+  color: #8C072f;
 }
 footer .social a {
   color: rgba(255, 255, 255, 0.5);
@@ -2659,7 +2659,7 @@ h6,
 }
 
 .dropdown-header {
-  color: #666699;
+  color: #8C072f;
   font-weight: 700;
   display: block;
   padding: 3px 20px;
@@ -2716,7 +2716,7 @@ h6,
   width: 100%;
 }
 #side-nav button#search-btn {
-  background-color: #666699;
+  background-color: #8C072f;
   border-radius: 0px 3px 3px 0px;
   padding: 0;
   margin: 0;
@@ -2825,18 +2825,18 @@ h6,
 }
 .list-group-item.style-2 {
   background-color: transparent;
-  color: #666699;
+  color: #8C072f;
 }
 .list-group-item.style-2.list-group-label,
 .list-group-item.style-2.list-group-label:hover {
-  color: #666699;
+  color: #8C072f;
   background-color: transparent;
 }
 .list-group-item.style-2 a {
   color: #646464;
 }
 .list-group-item.style-2 a:hover {
-  color: #666699;
+  color: #8C072f;
 }
 .list-group-item.style-2:hover {
   background-color: transparent;
@@ -2867,10 +2867,10 @@ input[type='text']:focus,
 input[type='email']:focus,
 input[type='password']:focus,
 select:focus {
-  border-color: #666699 !important;
+  border-color: #8C072f;
   box-shadow: none;
   box-sizing: border-box;
-  outline: none !important;
+  outline: none;
 }
 
 /* --------------------------------------
@@ -3594,7 +3594,7 @@ header .dropdown-menu {
   padding-top: 0;
   padding-bottom: 0;
   padding-left: 0;
-  border-bottom: 3px solid #666699;
+  border-bottom: 3px solid #8C072f;
 }
 
 .dropdown-menu {
@@ -3683,7 +3683,7 @@ header .dropdown-menu li a {
 .panel-default > .panel-heading a span {
   display: inline-block;
   width: 20px;
-  color: #666699;
+  color: #8C072f;
 }
 
 .collapse {
@@ -3746,15 +3746,15 @@ header .dropdown-menu li a {
   }
   .navbar-default .navbar-nav > .active > a,
   .navbar-default .navbar-nav > .active > a:hover {
-    background-color: transparent !important;
-    border-bottom: 3px solid #666699;
+    background-color: transparent;
+    border-bottom: 3px solid #8C072f;
     padding-left: 0;
     padding-right: 0;
     color: #1a1117;
   }
   .navbar-default .navbar-nav > li > a:hover,
   .navbar-default .navbar-nav > li > a:focus {
-    color: #666699;
+    color: #8C072f;
     background-color: transparent;
   }
   .navbar-collapse {
@@ -4258,7 +4258,7 @@ header .dropdown-menu {
   padding-top: 0;
   padding-bottom: 0;
   padding-left: 0;
-  border-bottom: 3px solid #666699;
+  border-bottom: 3px solid #8C072f;
 }
 
 .dropdown-menu {
@@ -4575,14 +4575,14 @@ footer {
   .navbar-default .navbar-nav > .active > a,
   .navbar-default .navbar-nav > .active > a:hover {
     background-color: transparent !important;
-    border-bottom: 3px solid #666699;
+    border-bottom: 3px solid #8C072f;
     padding-left: 0;
     padding-right: 0;
-    color: #1a1117;
+    color: #8C072f;
   }
   .navbar-default .navbar-nav > li > a:hover,
   .navbar-default .navbar-nav > li > a:focus {
-    color: #666699;
+    color: #8C072f;
     background-color: transparent;
   }
   .navbar-collapse {
