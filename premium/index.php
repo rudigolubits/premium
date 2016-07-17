@@ -17,14 +17,15 @@ $order_dir = isset($_GET['order_dir']) ? $_GET["order_dir"] : "DESC";
 
 require("dbconnect.php");
 require("views/header.php");
+require_once("functions/helpers.php");
 
  if($site == "products") {
    include("views/shop/shop.php");
  } elseif($site == "about") {
    include("views/about/about.php");
-} elseif($site == "impressum") {
+ } elseif($site == "impressum") {
    include("views/impressum/impressum.php");
-} elseif($site == "agb") {
+ } elseif($site == "agb") {
    include("views/agb/agb.php");
  } elseif($site == "contact") {
    include("views/contact/contact.php");
@@ -33,9 +34,9 @@ require("views/header.php");
  } elseif($site == "all-products") {
    include("views/product-detail/product-detail.php");
  } elseif($site == "login") {
-   include("login.php");
+   include("logic/login.php");
  } elseif($site == "register") {
-   include("register.php");
+   include("logic/register_logic.php");
  } else {
    include("views/homepage.php");
  }

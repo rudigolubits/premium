@@ -1,3 +1,4 @@
+<?php include_once("functions/helpers.php"); ?>
 <!DOCTYPE html>
 <html lang="de">
     <head>
@@ -54,7 +55,11 @@
                                     </li>
                                     <li><a href="index.php?site=about">Über Uns</a></li>
                                     <li><a href="index.php?site=contact">Kontakt</a></li>
+                                    <?php if(!is_logged_in()): ?>
                                     <li><a href="index.php?site=login">Login</a></li>
+                                    <?php else: ?>
+                                    <li><a href="logout.php">Logout</a></li>
+                                    <?php endif; ?>
                                 </ul>
 
                                 <ul id="tool-nav" class="nav navbar-nav hidden-xs hidden-sm">
