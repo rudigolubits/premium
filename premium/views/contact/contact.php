@@ -6,7 +6,7 @@
 			    <div class="row">
 			        <div class="page-header__column">
 						<ol class="page-header__breadcrumb">
-							<li><a href="homepage.html">Home</a></li>
+							<li><a href="homepage.php">Home</a></li>
 							<li class="page-header__breadcrumb--active">Kontakt</li>
 						</ol>
 			    		<h1>Kontakt</h1>
@@ -30,7 +30,6 @@
                                     <select class="form-control">
                           	            <option>Produktinformationen</option>
                                       	<option>Bestellungssupport</option>
-                                        <option>Offene Jobangebote</option>
                                     </select>
                                 </div>
                                 <div class="form-group">
@@ -52,9 +51,7 @@
                         <h3>Firmensitz</h3>
                         <p>
                         	<span class="fa fa-map-marker primary bigger"></span> Rathausplatz 12, 7093 Jois
-                        </p>
-                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae est velit. Morbi 		consequat condimentum turpis, sed placerat lacus tempus sit amet. Nulla facilisi. Quisque 	  cursus ac velit nec elementum. Nulla varius ex quis ante auctor, non consequat velit 			faucibus. orem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Quisque 	  cursus ac velit nec elementum.
-                        </p>
+                    
 
                     </div>
                 </div>

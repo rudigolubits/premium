@@ -2,7 +2,7 @@
 <html lang="de">
     <head>
 
-        <title>Homepage</title>
+        <title>Premium-Wein - Qualitätsweine aus dem Burgenland</title>
 
         <meta charset="utf-8">
         <meta content="" name="description">
@@ -32,7 +32,7 @@
                         <div class="container">
 
                             <div class="navbar-header">
-                                <a class="navbar-brand hidden-xs hidden-sm" href="index.php"><img alt="" src="images/premium_logo"></a>
+                                <a class="navbar-brand hidden-xs hidden-sm" href="index.php"><img alt="" src="images/premium_logo.png"></a>
                                 <a class="navbar-brand hidden-lg hidden-md" href="index.php"><img alt="" src="images/logo-mobile-1x.png" srcset="images/logo-mobile-1x.png 1x, images/logo-mobile-2x.png 2x"></a>
                                 <button class="toggle-side-menu navbar-toggle" type="button"><span class="fa fa-ellipsis-v"></span></button>
                                 <button class="navbar-toggle collapsed" data-target="#navigation" data-toggle="collapse" type="button"><span class="fa fa-navicon"></span></button>
@@ -44,7 +44,7 @@
 
                                 <ul id="main-nav" class="nav navbar-nav">
                                     <li class="dropdown">
-                                        <a class="dropdown-toggle" data-toggle="dropdown" href="index.php?site=products">Produkte<span class="fa fa-angle-down"></span></a>
+                                        <a class="dropdown-toggle" data-toggle="dropdown" href="index.php?site=products">Produkte <span class="fa fa-angle-down"></span></a>
                                         <ul class="dropdown-menu">
                                             <li><a href="#">Alle Weine</a></li>
                                             <li><a href="products.html#filter=.red-wines">Rotweine</a></li>
@@ -52,7 +52,7 @@
                                             <li><a href="products.html#filter=.rose-wines">Roséweine</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Über Uns</a></li>
+                                    <li><a href="index.php?site=about">Über Uns</a></li>
                                     <li><a href="index.php?site=contact">Kontakt</a></li>
                                     <li><a href="index.php?site=login">Login</a></li>
                                 </ul>

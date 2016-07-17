@@ -2511,7 +2511,7 @@ ____________________________________
   font-family: 'Merriweather', serif;
   font-size: 18px;
   margin-bottom: 40px;
-  color: #666699;
+  color: #8C072f;
 }
 
 .product-gallery__red-wines-price,
@@ -2530,13 +2530,13 @@ ____________________________________
 -------------------------------------- */
 
 .product-gallery__red-wines {
-  background-color: #666699;
+  background-color: #8C072f;
 }
 .product-gallery__rose-wines {
-  background-color: #f6a29f;
+  background-color: #8C072f;
 }
 .product-gallery__white-wines {
-  background-color: #e9b032;
+  background-color: #8C072f;
 }
 
 /* --------------------------------------
@@ -2649,13 +2649,13 @@ h6,
 }
 
 .product-gallery__red-wines-text {
-  color: #666699;
+  color: #8C072f;
 }
 .product-gallery__rose-wines-text {
-  color: #f6a29f;
+  color: #8C072f;
 }
 .product-gallery__white-wines-text {
-  color: #e9b032;
+  color: #8C072f;
 }
 
 .dropdown-header {
@@ -3637,7 +3637,7 @@ header .dropdown-menu li a {
   font-family: 'Merriweather', serif;
   font-size: 18px;
   margin-bottom: 40px;
-  color: #666699;
+  color: #8C072f;
 }
 
 #product-sheet .panel-group {

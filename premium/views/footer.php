@@ -18,20 +18,16 @@
                                         <div class="">
                                             <ul class="">
                                                 <li class="footer_em">INFORMATIONEN</li>
-                                                <li><a href="#">Impressum</a></li>
-                                                <li><a href="#">Versandkosten</a></li>
-                                                <li><a href="#">Rückgaberecht</a></li>
-                                                <li><a href="#">Haftungsausschluß</a></li>
+                                                <li><a href="index.php?site=impressum">Impressum</a></li>
+                                                <li><a href="index.php?site=agb">AGB</a></li>
                                             </ul>
                                         </div>
 
                                         <div class="">
                                             <ul>
-                                                <li class="footer_em">SUPPORT</li>
+                                                <li class="footer_em">BENUTZER</li>
                                                 <li><a href="#">Login</a></li>
                                                 <li><a href="#">Registrierung</a></li>
-                                                <li><a href="#">Datenschutz</a></li>
-                                                <li><a href="#">AGB</a></li>
                                             </ul>
                                         </div>
 

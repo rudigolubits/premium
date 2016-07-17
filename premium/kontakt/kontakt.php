@@ -41,12 +41,11 @@
                                     <select class="form-control">
                           	            <option>Produktinformationen</option>
                                       	<option>Bestellungssupport</option>
-                                        <option>Offene Jobangebote</option>
                                     </select>
                                 </div>
                                 <div class="form-group">
                                     <label for="msg-text">Nachricht</label>
-                                    <textarea rows="6" class="form-control" id="msg-text" placeholder="Type message"></textarea>
+                                    <textarea rows="6" class="form-control" id="msg-text" placeholder="Ihre Nachricht"></textarea>
                                 </div>
 
                                 <button class="btn btn-primary btn-lg btn-animated btn-style-1" type="submit">
@@ -64,8 +63,7 @@
                         <p>
                         	<span class="fa fa-map-marker primary bigger"></span> Rathausplatz 12, 7093 Jois
                         </p>
-                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae est velit. Morbi 		consequat condimentum turpis, sed placerat lacus tempus sit amet. Nulla facilisi. Quisque 	  cursus ac velit nec elementum. Nulla varius ex quis ante auctor, non consequat velit 			faucibus. orem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Quisque 	  cursus ac velit nec elementum.
-                        </p>
+                        
 
                     </div>
                 </div>

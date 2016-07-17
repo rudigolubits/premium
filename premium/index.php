@@ -20,6 +20,12 @@ require("views/header.php");
 
  if($site == "products") {
    include("views/shop/shop.php");
+ } elseif($site == "about") {
+   include("views/about/about.php");
+} elseif($site == "impressum") {
+   include("views/impressum/impressum.php");
+} elseif($site == "agb") {
+   include("views/agb/agb.php");
  } elseif($site == "contact") {
    include("views/contact/contact.php");
  } elseif($site == "product-detail") {
@@ -28,8 +34,6 @@ require("views/header.php");
    include("views/product-detail/product-detail.php");
  } elseif($site == "login") {
    include("login.php");
- } elseif ($site == "register") {
-   include("register.php");
  } else {
    include("views/homepage.php");
  }

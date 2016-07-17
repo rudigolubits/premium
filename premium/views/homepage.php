@@ -20,7 +20,7 @@
                                                 </h1>
                                                 <span class="separator" data-animation="animated bounceInUp"></span>
                                                 <p class="color-light" data-animation="animated bounceInUp">
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae est velit. Morbi consequat condimentum turpis, sed placerat lacus tempus sit amet. Nulla facilisi.
+                                                    Wir leben seit Generationen in der Region des Burgenlandes. Das kontinental pannonisch geprägte Klima bildet die Voraussetzung unserer Weinkultur.
                                                 </p>
                                                 <button class="btn btn-primary btn-lg btn-animated btn-style-1" data-animation="animated bounceInUp" type="button"><span class="btn-label">Unsere Weine</span></button>
                                             </div>
@@ -91,7 +91,7 @@
                         <div class="row">
 
                             <div class="col-sm-4">
-                                <img alt="" class="img-responsive img-thumbnail mar-v os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s" src='images/tractor.jpg'>
+                                <img alt="" class="img-responsive img-thumbnail mar-v os-animation" data-os-animation="fadeInLeft" data-os-animation-delay="0s" src='images/traktor_01.jpg'>
                             </div>
 
                             <div class="col-sm-8">
@@ -103,7 +103,7 @@
                                     1990 übernahm Paul Renner (* 1967) das Weingut von seinem Vater Leo Renner. Rasch baute er den Betrieb zu einem der größten privaten Weingüter Österreichs aus. Im Jahr 2004 wurde der am Ortsrand von Jois befindliche neue Keller fertiggestellt.
                                 </p>
                                 <p>
-                                    Paul Renner war jedoch bald von der Welt der Premiumweine fasziniert und hat gemeinsam mit Freunden die Firma Premiumwein.at gegründet. Seit 2012 haben sie Ihre beruflichen Aktivitäten weit über die Grenzen Österreichs hinaus erweitert.
+                                    Paul Renner war jedoch bald von der Welt der Premiumweine fasziniert und hat gemeinsam mit Freunden die Firma Premium-wein.at gegründet. Seit 2012 haben sie Ihre beruflichen Aktivitäten weit über die Grenzen Österreichs hinaus erweitert.
                                 </p>
                             </div>
 
@@ -111,7 +111,7 @@
                     </div>
                 </section>
 
-                <section class="section-photo parallax color-light" data-stellar-background-ratio="0.5" style="background-image:url('images/anwesen.jpg')">
+                <section class="section-photo parallax color-light" data-stellar-background-ratio="0.5" style="background-image:url('images/anwesen_01.jpg')">
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-12 text-center">
@@ -120,7 +120,7 @@
                                 </h2>
 
                                 <h3>
-                                    Im Herzen der grünen Südoststeiermark
+                                    Im Herzen des Burgenlandes
                                 </h3>
                             </div>
                         </div>
@@ -230,12 +230,12 @@
                                         <select class="form-control">
                                           <option>Produktinformationen</option>
                                           <option>Bestellungssupport</option>
-                                          <option>Offene Jobangebote</option>
+                                          
                                         </select>
                                     </div>
                                     <div class="form-group">
                                         <label for="msg-text">Nachricht</label>
-                                        <textarea rows="6" class="form-control" id="msg-text" placeholder="Type message"></textarea>
+                                        <textarea rows="6" class="form-control" id="msg-text" placeholder="Ihre Nachricht..."></textarea>
                                     </div>
 
                                     <button class="btn btn-primary btn-lg btn-animated btn-style-1" type="submit">
@@ -256,8 +256,7 @@
                                 <span class="fa fa-map-marker primary bigger"></span> Rathausplatz 12, 7093 Jois
                                 </p>
 
-                                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae est velit. Morbi consequat condimentum turpis, sed placerat lacus tempus sit amet. Nulla facilisi. Quisque cursus ac velit nec elementum. Nulla varius ex quis ante auctor, non consequat velit faucibus. orem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Quisque cursus ac velit nec elementum.
-                                </p>
+                                
 
                             </div>
                         </div>

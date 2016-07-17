@@ -21,15 +21,15 @@
 <main>
 
 				<!-- .page-header -->
-				<div class="page-header" style="background-image:url(images/title-1.jpg)" data-stellar-background-ratio="0.2">
+				<div class="page-header" style="background-image:url(../images/Kontakt-Bild.jpg)" data-stellar-background-ratio="0.2">
 			        <div class="page-header__container">
 			            <div class="page-header__row">
 			            	<div class="page-header__column">
 								<ol class="page-header__breadcrumb">
-								  <li><a href="homepage.html">Home</a></li>
+								  <li><a href="homepage.php">Home</a></li>
 								  <li class="page-header__breadcrumb--active">Shop</li>
 								</ol>
-							  <h1>Buy wines & foods</h1>
+							  <h1></h1>
 			            	</div>
 						</div>
 		            </div>
@@ -43,37 +43,38 @@
 					<!-- Sort by -->
 					<div class="pull-left navbar__btn-group">
 					  <button type="button" class="navbar__btn navbar__btn-default dropdown-toggle btn-filter" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					    All Products <span class="fa fa-angle-down carat"></span>
+					    Alle Weine <span class="fa fa-angle-down carat"></span>
 					  </button>
 					  <ul class="dropdown-menu">
 					  	<li class="dropdown-header">Filter by type</li>
-					    <li><a href="#">All Products</a></li>
-					    <li><a href="#">Red Wines</a></li>
-					    <li><a href="#">White Wines</a></li>
-					    <li><a href="#">Rosé Wines</a></li>
-					    <li><a href="#">Food Specialties</a></li>
+					    <li><a href="#">Alle Weine</a></li>
+					    <li><a href="#">Rotweine</a></li>
+					    <li><a href="#">Weissweine</a></li>
+					    <li><a href="#">Roséweine</a></li>
 					  </ul>
 					</div>
 
 					<!-- Price range -->
 					<div class="navbar__btn-group">
 					  <button type="button" class="navbar__btn navbar__btn-default navbar__dropdown-toggle btn-filter" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					    $20 - $29 <span class="fa fa-angle-down carat"></span>
+					    €1 - €5 <span class="fa fa-angle-down carat"></span>
+					  </button>
+					  <button type="button" class="navbar__btn navbar__btn-default navbar__dropdown-toggle btn-filter" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					    €6 - €9 <span class="fa fa-angle-down carat"></span>
+					  </button>
+					  <button type="button" class="navbar__btn navbar__btn-default navbar__dropdown-toggle btn-filter" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					    €10 - €20 <span class="fa fa-angle-down carat"></span>
 					  </button>
 					  <ul class="dropdown-menu">
 					  	<li class="dropdown-header">Filter by price</li>
-					    <li><a href="#">Up to $19</a></li>
-					    <li><a href="#">$20 - $29</a></li>
-					    <li><a href="#">$30 - $39</a></li>
+					    <li><a href="#">1 - 5€</a></li>
+					    <li><a href="#">6 - 9€</a></li>
+					    <li><a href="#">10 - 20€</a></li>
 					  </ul>
 					</div>
 
 
-					<div id="view-option" class="navbar__pull-right navbar__btn-group navbar__navbar-icons 			navbar__hidden-xs" role="group">
-					  <button data-view="product-gallery__column-1" type="button" class="navbar__btn navbar__btn-default"><span class="fa fa-th-large"></span></button>
-					  <button data-view="product-gallery__column-2" type="button" class="navbar__btn navbar__btn-default active"><span class="fa fa-th"></span></button>
-					  <button data-view="product-gallery__column-3 product-gallery__column-3--margin-left list-view" type="button" class="navbar__btn navbar__btn-default"><span class="fa fa-th-list"></span></button>
-					</div>
+					
 
 				  </div>
 				</nav>
@@ -86,13 +87,13 @@
 							<div class="shop-item product-gallery__column-1 col-lg-4">
 								<article>
 									<figure class="product-gallery__red-wines">
-										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/red-wine-5.png" alt="" width="300" height="600"></a>
+										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/shop-wine_bf.png" alt="" width="300" height="600"></a>
 										<a href="cart.html" class="add-to-cart fa fa-shopping-cart"></a>
 									</figure>
 									<div>
-									<h3><a href="product-sheet.html">Pinot Noir</a></h3>
-									<h4 class="product-gallery__red-wines-text">Dry red wine</h4>
-									<h5 class="product-gallery__red-wines-price">$29.95</h5>
+									<h3><a href="product-sheet.html">Cuvée Maria</a></h3>
+									<h4 class="product-gallery__red-wines-text">Rotwein Premium</h4>
+									<h5 class="product-gallery__red-wines-price">€10</h5>
 									</div>
 								</article>
 							</div>
@@ -100,13 +101,13 @@
 							<div class="shop-item product-gallery__column-1 col-lg-4">
 								<article>
 									<figure class="product-gallery__white-wines">
-										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/white-wine-5.png" alt="" width="300" height="600"></a>
+										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/shop-wine_sb.png" alt="" width="300" height="600"></a>
 										<a href="cart.html" class="add-to-cart fa fa-shopping-cart"></a>
 									</figure>
 									<div>
-									<h3><a href="product-sheet.html">Chardonnay</a></h3>
-									<h4 class="product-gallery__white-wines-text">Dry white wine</h4>
-									<h5 class="product-gallery__white-wines-price">$29.95</h5>
+									<h3><a href="product-sheet.html">Sauvignon Blanc</a></h3>
+									<h4 class="product-gallery__white-wines-text">Weisswein Premium</h4>
+									<h5 class="product-gallery__white-wines-price">€6</h5>
 									</div>
 								</article>
 							</div>
@@ -114,13 +115,13 @@
 							<div class="shop-item product-gallery__column-1 col-lg-4">
 								<article>
 									<figure class="product-gallery__rose-wines">
-										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/rose-wine-5.png" alt="" width="300" height="600"></a>
+										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/shop-wine_bf.png" alt="" width="300" height="600"></a>
 										<a href="cart.html" class="add-to-cart fa fa-shopping-cart"></a>
 									</figure>
 									<div>
-									<h3><a href="product-sheet.html">Bordeaux</a></h3>
-									<h4 class="product-gallery__rose-wines-text">Dry rose wine</h4>
-									<h5 class="product-gallery__rose-wines-price">$29.95</h5>
+									<h3><a href="product-sheet.html">Blaufränkisch Rosé</a></h3>
+									<h4 class="product-gallery__rose-wines-text">Roséwein Premium</h4>
+									<h5 class="product-gallery__rose-wines-price">€5</h5>
 									</div>
 								</article>
 							</div>
@@ -128,13 +129,13 @@
 							<div class="shop-item product-gallery__column-1 col-lg-4">
 								<article>
 									<figure class="product-gallery__rose-wines">
-										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/rose-wine-2.png" alt="" width="300" height="600"></a>
+										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/shop-wine_sb.png" alt="" width="300" height="600"></a>
 										<a href="cart.html" class="add-to-cart fa fa-shopping-cart"></a>
 									</figure>
 									<div>
-									<h3><a href="product-sheet.html">Zinfandel</a></h3>
-									<h4 class="product-gallery__rose-wines-text">Dry rose wine</h4>
-									<h5 class="product-gallery__rose-wines-price">$29.95</h5>
+									<h3><a href="product-sheet.html">Blaufränkisch Rosé</a></h3>
+									<h4 class="product-gallery__rose-wines-text">Roséwein Premium</h4>
+									<h5 class="product-gallery__rose-wines-price">€5</h5>
 									</div>
 								</article>
 							</div>
@@ -142,13 +143,13 @@
 							<div class="shop-item product-gallery__column-1 col-lg-4">
 								<article>
 									<figure class="product-gallery__red-wines">
-										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/red-wine-2.png" alt="" width="300" height="600"></a>
+										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/shop-wine_bf.png" alt="" width="300" height="600"></a>
 										<a href="cart.html" class="add-to-cart fa fa-shopping-cart"></a>
 									</figure>
 									<div>
-									<h3><a href="product-sheet.html">Pinot Gris</a></h3>
-									<h4 class="product-gallery__red-wines-text">Dry red wine</h4>
-									<h5 class="product-gallery__red-wines-price">$29.95</h5>
+									<h3><a href="product-sheet.html">Blaufränkisch</a></h3>
+									<h4 class="product-gallery__red-wines-text">Rotwein Premium</h4>
+									<h5 class="product-gallery__red-wines-price">€6</h5>
 									</div>
 								</article>
 							</div>
@@ -156,13 +157,13 @@
 							<div class="shop-item product-gallery__column-1 col-lg-4">
 								<article>
 									<figure class="product-gallery__white-wines">
-										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/white-wine-2.png" alt="" width="300" height="600"></a>
+										<a href="index.php?site=product-detail"><img class="product-gallery__img-responsive" src="images/shop-wine_sb.png" alt="" width="300" height="600"></a>
 										<a href="cart.html" class="add-to-cart fa fa-shopping-cart"></a>
 									</figure>
 									<div>
-									<h3><a href="index.php?site=product-detail">Sirah</a></h3>
-									<h4 class="product-gallery__white-wines-text">Dry white wine</h4>
-									<h5 class="product-gallery__white-wines-price">$29.95</h5>
+									<h3><a href="index.php?site=product-detail">Blaufränkisch Weiss</a></h3>
+									<h4 class="product-gallery__white-wines-text">Weisswein Premium</h4>
+									<h5 class="product-gallery__white-wines-price">€7</h5>
 									</div>
 								</article>
 							</div>
