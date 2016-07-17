@@ -26,8 +26,8 @@
                                         <div class="">
                                             <ul>
                                                 <li class="footer_em">BENUTZER</li>
-                                                <li><a href="#">Login</a></li>
-                                                <li><a href="#">Registrierung</a></li>
+                                                <li><a href="index.php?site=login">Login</a></li>
+                                                <li><a href="index.php?site=register">Registrierung</a></li>
                                             </ul>
                                         </div>
 

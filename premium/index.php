@@ -34,6 +34,8 @@ require("views/header.php");
    include("views/product-detail/product-detail.php");
  } elseif($site == "login") {
    include("login.php");
+ } elseif($site == "register") {
+   include("register.php");
  } else {
    include("views/homepage.php");
  }
